@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Host: http://zaimovik.info/
+Sitemap: http://zaimovik.info/sitemap/
